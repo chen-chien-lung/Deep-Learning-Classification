@@ -3,7 +3,7 @@
 
 資料集內訓練的照片分為20個角色，總共19548張圖片，測試資料為990張。
 資料集的分類如下，資料夾名稱為人物角色的名子，其內為各角色的圖片。<br />
-<img src="https://github.com/chen-chien-lung/Deep-Learning-Classification/edit/master/1.png" width="600" height="440"><br />
+<img src="https://github.com/chen-chien-lung/Deep-Learning-Classification/blob/master/1.png" width="600" height="440"><br />
 
 首先引入需要的程式工具<br />
 <img src="https://github.com/MachineLearningNTUT2018/classification-t107368523/blob/master/2.png" width="660" height="260"><br />
